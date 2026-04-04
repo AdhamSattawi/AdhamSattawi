@@ -1,6 +1,6 @@
 # Hi there, I'm Adham Sattawi 👋
 
-**`Software Developer | Backend Architecture & Applied AI`**
+**`Software Developer | Backend & Infrastructure & Applied AI`**
 
 I focus on building resilient backend systems, event-driven data pipelines, and bridging the gap between robust software architecture and scalable cloud infrastructure. My recent work centers around integrating Large Language Models (LLMs) into production environments to process unstructured data.
 
@@ -16,7 +16,7 @@ I focus on building resilient backend systems, event-driven data pipelines, and 
 
 ### 🚀 Featured Engineering
 
-**[LyraSync: Asynchronous Applied AI Pipeline](https://github.com/AdhamSattawi/LyraSync)** An event-driven backend service that processes unstructured audio data from field environments. It utilizes GPT-4o and Whisper for intent classification and data extraction, securely mapping natural language into strictly-typed PostgreSQL databases via asynchronous Twilio webhooks.
+**[LyraSync: Asynchronous Applied AI Pipeline](https://github.com/AdhamSattawi/LyraSync)** An event-driven backend service that processes unstructured audio data from field environments. It utilizes GPT-5.4-nano and Whisper for intent classification and data extraction, securely mapping natural language into strictly-typed PostgreSQL databases via asynchronous Twilio webhooks.
 
 ---
 
