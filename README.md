@@ -1,17 +1,16 @@
 # Hi there, I'm Adham Sattawi 👋
 
-**Software Developer | Backend Architecture & Applied AI**
+**`Software Developer | Backend Architecture & Applied AI`**
 
 I focus on building resilient backend systems, event-driven data pipelines, and bridging the gap between robust software architecture and scalable cloud infrastructure. My recent work centers around integrating Large Language Models (LLMs) into production environments to process unstructured data.
 
 ---
 
 ### 🛠️ Tech Stack & Architecture
-
 * **Languages & Frameworks:** Python, FastAPI, JavaScript
-* **Databases:** PostgreSQL, Relational Schema Design
+* **Databases:** MySQL, PostgreSQL, Relational Schema Design
 * **DevOps & Cloud:** Docker, Microsoft Azure, Git
-* **AI & External APIs:** OpenAI API, Webhooks
+* **AI & External APIs:** OpenAI API, Webhooks, FAISS, YOLO, CLIP
 
 ---
 
@@ -30,8 +29,9 @@ I focus on building resilient backend systems, event-driven data pipelines, and 
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [Adham Sattawi](https://www.linkedin.com/in/adhamst/)
-* **Email:** [Contact Me](Adham.Sattawi@Gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adhamst/) 
+
+Email: [Adham.Sattawi@Gmail.com](Adham.Sattawi@Gmail.com)
 <!--
 **AdhamSattawi/AdhamSattawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
