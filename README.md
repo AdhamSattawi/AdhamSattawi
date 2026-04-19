@@ -17,7 +17,7 @@ I'm a Python Engineer who loves breaking things as much as building them. After 
 
 ### 🚀 Featured Engineering
 
-**[Conduit E2E Automation Framework](https://github.com/AdhamSattawi/conduit-e2e-automation-framework)** An enterprise-grade End-to-End testing framework built from scratch to validate a Next.js full-stack application. 
+**[Conduit E2E Automation Framework](https://github.com/AdhamSattawi/realworld-playwright-python-framework)** An enterprise-grade End-to-End testing framework built from scratch to validate a Next.js full-stack application. 
 * **Architecture:** Strict Page Object Model (POM) separating UI locators from test logic.
 * **Optimization:** Implemented API state injection to bypass UI logins, reducing test execution time by 80%.
 * **Infrastructure:** Fully containerized CI/CD pipeline using GitHub Actions to spin up ephemeral Docker environments for automated test runs.
