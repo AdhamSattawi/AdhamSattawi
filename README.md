@@ -1,48 +1,41 @@
 # Hi there, I'm Adham Sattawi 👋
 
-**`Software Developer | Backend & Infrastructure & Applied AI`**
+**`SDET | Python & Playwright Automation Engineer | CI/CD`**
 
-I focus on building resilient backend systems, event-driven data pipelines, and bridging the gap between robust software architecture and scalable cloud infrastructure. My recent work centers around integrating Large Language Models (LLMs) into production environments to process unstructured data.
+I'm a Python Engineer who loves breaking things as much as building them. After mastering backend development, I transitioned into SDET because I’m passionate about building robust testing infrastructures that ensure software reliability. I specialize in architecting scalable Page Object Model (POM) frameworks, writing deterministic Pytest suites, and building containerized CI/CD pipelines to catch bugs before they hit production.
 
 ---
 
 ### 🛠️ Tech Stack & Architecture
+* **Automation & Testing:** Playwright, Pytest, Data-Driven Testing (DDT), Postman
 * **Languages & Frameworks:** Python, FastAPI, JavaScript
-* **Databases:** MySQL, PostgreSQL, Relational Schema Design
-* **DevOps & Cloud:** Docker, Microsoft Azure, Git
-* **AI & External APIs:** OpenAI API, Webhooks, FAISS, YOLO, CLIP
+* **DevOps & CI/CD:** GitHub Actions, Docker, Docker Compose, Git, Linux
+* **Databases:** PostgreSQL, MySQL
+* **AI & Integration:** OpenAI API, Twilio Webhooks, Whisper
 
 ---
 
 ### 🚀 Featured Engineering
 
-**[LyraSync: Asynchronous Applied AI Pipeline](https://github.com/AdhamSattawi/LyraSync)** An event-driven backend service that processes unstructured audio data from field environments. It utilizes GPT-5.4-nano and Whisper for intent classification and data extraction, securely mapping natural language into strictly-typed PostgreSQL databases via asynchronous Twilio webhooks.
+**[Conduit E2E Automation Framework](https://github.com/AdhamSattawi/conduit-e2e-automation-framework)** An enterprise-grade End-to-End testing framework built from scratch to validate a Next.js full-stack application. 
+* **Architecture:** Strict Page Object Model (POM) separating UI locators from test logic.
+* **Optimization:** Implemented API state injection to bypass UI logins, reducing test execution time by 80%.
+* **Infrastructure:** Fully containerized CI/CD pipeline using GitHub Actions to spin up ephemeral Docker environments for automated test runs.
+
+**[LyraSync: Asynchronous Applied AI Pipeline](https://github.com/AdhamSattawi/LyraSync)** An event-driven backend service proving my ability to handle complex server logic and external APIs. Processes unstructured audio data from field environments using Whisper and GPT models to securely map natural language into strictly-typed PostgreSQL databases via asynchronous webhooks.
 
 ---
 
 ### 🎓 Background
 
-* **Backend Development Bootcamp** – CodeValue
+* **M.A. Information Science - Information Technologies** – Bar-Ilan University 
+* **Backend Development Bootcamp** – CodeValue (R&D Simulation & Enterprise Python)
 * **B.A. Information Science** – Bar-Ilan University
 
 ---
 
 ### 📫 Let's Connect
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adhamst/) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adhamst/) 
 
-Email: [Adham.Sattawi@Gmail.com](Adham.Sattawi@Gmail.com)
-<!--
-**AdhamSattawi/AdhamSattawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: [Adham.Sattawi@Gmail.com](mailto:Adham.Sattawi@Gmail.com)
