@@ -1,14 +1,18 @@
 # Hi there, I'm Adham Sattawi 👋
 
-**`SDET | Python & Playwright Automation Engineer | CI/CD`**
+**`AI Data Operations | Python | Automation | CI/CD`**
 
-I'm a Python Engineer who loves breaking things as much as building them. After mastering backend development, I transitioned into SDET because I’m passionate about building robust testing infrastructures that ensure software reliability. I specialize in architecting scalable Page Object Model (POM) frameworks, writing deterministic Pytest suites, and building containerized CI/CD pipelines to catch bugs before they hit production.
+I have a strong engineering background, specializing in transforming messy, real-world data into reliable, structured assets for decision-making and AI systems.
 
+My work focuses on data cleaning, integration, and validation, alongside maintaining and improving AI-driven workflows. I bring hands-on experience building data pipelines, working with unstructured data, and validating AI outputs to ensure consistency, accuracy, and business relevance.
+
+With a foundation in backend development and automation, I approach data problems with an engineering mindset — emphasizing scalability, reproducibility, and robustness.
 ---
 
 ### 🛠️ Tech Stack & Architecture
+* **Data & Analysis:** Excel, Data Cleaning, Data Integration
 * **Automation & Testing:** Playwright, Pytest, Data-Driven Testing (DDT), Postman
-* **Languages & Frameworks:** Python, FastAPI, JavaScript
+* **Languages & Frameworks:** Python, FastAPI, SQL
 * **DevOps & CI/CD:** GitHub Actions, Docker, Docker Compose, Git, Linux
 * **Databases:** PostgreSQL, MySQL
 * **AI & Integration:** OpenAI API, Twilio Webhooks, Whisper
@@ -22,7 +26,10 @@ I'm a Python Engineer who loves breaking things as much as building them. After 
 * **Optimization:** Implemented API state injection to bypass UI logins, reducing test execution time by 80%.
 * **Infrastructure:** Fully containerized CI/CD pipeline using GitHub Actions to spin up ephemeral Docker environments for automated test runs.
 
-**[LyraSync: Asynchronous Applied AI Pipeline](https://github.com/AdhamSattawi/LyraSync)** An event-driven backend service proving my ability to handle complex server logic and external APIs. Processes unstructured audio data from field environments using Whisper and GPT models to securely map natural language into strictly-typed PostgreSQL databases via asynchronous webhooks.
+**[LyraSync: Asynchronous Applied AI Pipeline](https://github.com/AdhamSattawi/LyraSync)** An end-to-end pipeline for processing unstructured audio data into structured business-ready datasets.
+- Built a system to transform raw audio into structured JSON using AI models
+- Designed data flows for ingestion, transformation, and storage
+- Ensured data consistency and validation before database insertion
 
 ---
 
