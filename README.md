@@ -1,6 +1,6 @@
 # Hi there, I'm Adham Sattawi 👋
 
-**`AI Data Operations | Python | Automation | CI/CD`**
+**`Python | SQL | CI/CD | Backend | Data | Automation | AI & ML`**
 
 I have a strong engineering background, specializing in transforming messy, real-world data into reliable, structured assets for decision-making and AI systems.
 
