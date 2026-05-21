@@ -31,8 +31,8 @@ An asynchronous, intent-routing backend pipeline automating business operations 
 
 ### 🎓 Background
 
-* **M.A. Information Science - Information Technologies** – Bar-Ilan University 
 * **Backend Development Bootcamp** – CodeValue (R&D Simulation & Enterprise Python)
+* **M.A. Information Science - Information Technologies** – Bar-Ilan University 
 * **B.A. Information Science** – Bar-Ilan University
 
 ---
