@@ -1,35 +1,31 @@
-# Hi there, I'm Adham Sattawi 👋
+# Adham Sattawi 👋
+### Backend Engineer | AI & ML | Python & FastAPI
 
 **`Python | SQL | CI/CD | Backend | Data | Automation | AI & ML`**
 
-I have a strong engineering background, specializing in transforming messy, real-world data into reliable, structured assets for decision-making and AI systems.
+I am a systems-thinker who thrives on deconstructing complex data bottlenecks into scalable, high-performance infrastructures. Whether it's building asynchronous AI-powered pipelines, enforcing strict Clean Architecture in FastAPI, or engineering event-driven automation workflows, I design systems that turn data into operational leverage.
 
-My work focuses on data cleaning, integration, and validation, alongside maintaining and improving AI-driven workflows. I bring hands-on experience building data pipelines, working with unstructured data, and validating AI outputs to ensure consistency, accuracy, and business relevance.
+Driven by logic, structural efficiency, and robust state management, I build solutions that don't just work locally—they scale reliably in the cloud.
 
-With a foundation in backend development and automation, I approach data problems with an engineering mindset — emphasizing scalability, reproducibility, and robustness.
 ---
 
 ### 🛠️ Tech Stack & Architecture
-* **Data & Analysis:** Excel, Data Cleaning, Data Integration
-* **Automation & Testing:** Playwright, Pytest, Data-Driven Testing (DDT), Postman
-* **Languages & Frameworks:** Python, FastAPI, SQL
-* **DevOps & CI/CD:** GitHub Actions, Docker, Docker Compose, Git, Linux
+* **Languages & Frameworks:** Python, FastAPI, Pydantic V2, SQLAlchemy 2.0 (Async), SQL
+* **Cloud & DevOps:** Azure App Service, Docker, GitHub Actions, Linux
 * **Databases:** PostgreSQL, MySQL
-* **AI & Integration:** OpenAI API, Twilio Webhooks, Whisper
+* **AI & Integration:** OpenAI Structured Outputs, Whisper, Twilio Webhooks
+* **Automation & Testing:** Playwright, Pytest, Data-Driven Testing (DDT), Postman
 
 ---
 
 ### 🚀 Featured Engineering
 
-**[Conduit E2E Automation Framework](https://github.com/AdhamSattawi/realworld-playwright-python-framework)** An enterprise-grade End-to-End testing framework built from scratch to validate a Next.js full-stack application. 
-* **Architecture:** Strict Page Object Model (POM) separating UI locators from test logic.
-* **Optimization:** Implemented API state injection to bypass UI logins, reducing test execution time by 80%.
-* **Infrastructure:** Fully containerized CI/CD pipeline using GitHub Actions to spin up ephemeral Docker environments for automated test runs.
-
-**[LyraSync: Asynchronous Applied AI Pipeline](https://github.com/AdhamSattawi/LyraSync)** An end-to-end pipeline for processing unstructured audio data into structured business-ready datasets.
-- Built a system to transform raw audio into structured JSON using AI models
-- Designed data flows for ingestion, transformation, and storage
-- Ensured data consistency and validation before database insertion
+**[LyraSync: Voice-to-CRM AI Backend Pipeline](https://github.com/AdhamSattawi/LyraSync)** 
+An asynchronous, intent-routing backend pipeline automating business operations for SMBs via WhatsApp voice notes. 
+* **Architecture:** Strict Clean Architecture (N-Layer), decoupling business logic using a Handler Registry (Command Pattern) to execute 25 distinct intents without "God Class" bottlenecks.
+* **State Management:** Handled asynchronous persistence with SQLAlchemy 2.0 and PostgreSQL, ensuring robust session boundaries across async execution layers.
+* **Cloud Infrastructure:** Dockerized and deployed to Azure App Service with decoupled StorageServices using short-lived SAS tokens for non-blocking file serving.
+* Documented 31 Architecture Decision Records (ADRs) covering state-management, scaling, and architectural patterns.
 
 ---
 
