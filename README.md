@@ -6,11 +6,11 @@
 ---
 
 ### 🛠️ Tech Stack & Architecture
-* **Languages & Frameworks:** Python, FastAPI, Pydantic V2, SQLAlchemy 2.0 (Async), SQL
-* **Cloud & DevOps:** Azure App Service, Docker, GitHub Actions, Linux
-* **Databases:** PostgreSQL, MySQL
-* **AI & Integration:** OpenAI Structured Outputs, Whisper, Twilio Webhooks
-* **Automation & Testing:** Playwright, Pytest, Data-Driven Testing (DDT), Postman
+* **Backend & APIs:** Python, FastAPI, Pydantic V2, SQLAlchemy 2.0 (Async)
+* **Automation & Validation:** Pytest, Playwright, Data-Driven Testing (DDT), Postman
+* **AI & Integrations:** OpenAI Structured Outputs, Whisper, Twilio Webhooks
+* **CI/CD & DevOps:** GitHub Actions, Docker, Azure App Service, Linux
+* **Databases:** PostgreSQL, MySQL, SQL
 
 ---
 
