@@ -1,11 +1,7 @@
 # Adham Sattawi 👋
-### Backend Engineer | AI & ML | Python & FastAPI
+### Backend Engineer & QA Automation | Python & FastAPI | AI Integrations
 
-**`Python | SQL | CI/CD | Backend | Data | Automation | AI & ML`**
-
-I am a systems-thinker who thrives on deconstructing complex data bottlenecks into scalable, high-performance infrastructures. Whether it's building asynchronous AI-powered pipelines, enforcing strict Clean Architecture in FastAPI, or engineering event-driven automation workflows, I design systems that turn data into operational leverage.
-
-Driven by logic, structural efficiency, and robust state management, I build solutions that don't just work locally—they scale reliably in the cloud.
+**`Python | FastAPI | Pytest | Playwright | AI & ML | CI/CD`**
 
 ---
 
