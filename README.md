@@ -1,5 +1,6 @@
 # Adham Sattawi 👋
-### Backend Engineer & QA Automation | Python & FastAPI | AI Integrations
+SDET & QA Automation Engineer | Python & AI | CI/CD & API
+
 
 **`Python | FastAPI | Pytest | Playwright | AI & ML | CI/CD`**
 
