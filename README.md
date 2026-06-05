@@ -1,21 +1,20 @@
 # Adham Sattawi 👋
-SDET & QA Automation Engineer | Python & AI | CI/CD & API
+Information Science M.A. | Data Analytics & Backend Automation | Python & SQL
 
-
-**`Python | FastAPI | Pytest | Playwright | AI & ML | CI/CD`**
+**`Python | SQL | Machine Learning | FastAPI | CI/CD | Automation`**
 
 ---
 
 ### 🛠️ Tech Stack & Architecture
-* **Backend & APIs:** Python, FastAPI, Pydantic V2, SQLAlchemy 2.0 (Async)
-* **Automation & Validation:** Pytest, Playwright, Data-Driven Testing (DDT), Postman
+* **Data & Analytics:** Python, SQL, Excel, PowerBI, Web Scraping
+* **Backend & APIs:** FastAPI, Pydantic V2, SQLAlchemy 2.0 (Async), RESTful APIs
+* **Automation & DevOps:** Pytest, Playwright, GitHub Actions, Docker, Linux
 * **AI & Integrations:** OpenAI Structured Outputs, Whisper, Twilio Webhooks
-* **CI/CD & DevOps:** GitHub Actions, Docker, Azure App Service, Linux
-* **Databases:** PostgreSQL, MySQL, SQL
+* **Databases:** PostgreSQL, MySQL, Relational Database Design
 
 ---
 
-### 🚀 Featured Engineering
+### 🚀 Featured Engineering & Analytics
 
 **[LyraSync: Voice-to-CRM AI Backend Pipeline](https://github.com/AdhamSattawi/LyraSync)** 
 An asynchronous, intent-routing backend pipeline automating business operations for SMBs via WhatsApp voice notes. 
@@ -23,6 +22,11 @@ An asynchronous, intent-routing backend pipeline automating business operations 
 * **State Management:** Handled asynchronous persistence with SQLAlchemy 2.0 and PostgreSQL, ensuring robust session boundaries across async execution layers.
 * **Cloud Infrastructure:** Dockerized and deployed to Azure App Service with decoupled StorageServices using short-lived SAS tokens for non-blocking file serving.
 * Documented 31 Architecture Decision Records (ADRs) covering state-management, scaling, and architectural patterns.
+
+**[Football Prediction Model (Data Analytics & ML)](https://github.com/AdhamSattawi/ligat-alifot-analytical-predictive-model)** 
+A machine learning classification model predicting Israeli Premier League match outcomes.
+* Scraped, cleaned, and processed large-scale historical data across 15 seasons using Python.
+* Engineered features and evaluated XGBoost model performance to derive actionable predictive insights.
 
 ---
 
